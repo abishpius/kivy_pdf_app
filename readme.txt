@@ -1,0 +1,1 @@
+This Kivy App is designed to take in a pdf file and convert it to text.
